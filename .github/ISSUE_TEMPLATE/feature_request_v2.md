@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: Define a new feature
-title: ''
+title: 'feat: '
 labels: ''
 assignees: ''
 
